@@ -1,0 +1,12 @@
+{
+  "name": "quick-note-taker",
+  "version": "1.0.0",
+  "description": "Quick Note Taker Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electron ."
+  },
+  "devDependencies": {
+    "electron": "^40.8.4"
+  }
+}
